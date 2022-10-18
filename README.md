@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ye Tun (Kai)
+- 👋 Hi, I’m Ye Tun (Ky)
 - 👀 I’m interested in UI/UX design
 - 🌱 I’m currently studying Computer Science and Economic in Univeristy of Massachusetts, Amherst.
       I'm currently learning app and web development.
