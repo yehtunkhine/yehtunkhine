@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ye Tun (Ky)
-- 👀 I’m interested in UI/UX design
+- 👀 I’m interested in Web development and Software development
 - 🌱 I’m currently studying Computer Science and Economic in Univeristy of Massachusetts, Amherst.
       I'm currently learning app and web development.
 - 💞️ I’m looking to collaborate on ... personal projects related to app and web development.
