@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Science and Economic in Univeristy of Massachusetts, Amherst.
       I'm currently learning app and web development.
 - 💞️ I’m looking to collaborate on ... personal projects related to app and web development.
-      I'm also looking for a Spring 2023 full-time internship.
+      I'm also looking for a Summer 2023 full-time internship.
 - 📫 How to reach me ... Email - yehtunkhine@gmail.com.
 
 <!---
